@@ -1,0 +1,65 @@
+GMAT Build Date: Apr 19 2018 12:43:50
+
+GMAT Log file set to \\my.files.iastate.edu\Users\droppers\Documents\Git\Astrodynamics-Software-Crash-Course\GMAT-R2018a\bin\..\output\GmatLog.txt
+Moderator is updating data files...
+Moderator is creating core engine...
+Successfully set Planetary Source to use: DE405
+Successfully set Planetary Source to use: DE405
+Successfully set Planetary Source to use: DE405
+Setting nutation file to \\my.files.iastate.edu\Users\droppers\Documents\Git\Astrodynamics-Software-Crash-Course\GMAT-R2018a\bin\..\data\planetary_coeff\NUTATION.DAT
+Setting leap seconds file to \\my.files.iastate.edu\Users\droppers\Documents\Git\Astrodynamics-Software-Crash-Course\GMAT-R2018a\bin\..\data\time\tai-utc.dat
+2018-08-21 12:10:47 GMAT Moderator successfully created core engine
+Successfully set Planetary Source to use: DE405
+Successfully set Planetary Source to use: DE405
+2018-08-21 12:10:51 GMAT GUI successfully launched.
+Running mission...
+Successfully set Planetary Source to use: DE405
+Successfully set Planetary Source to use: DE405
+Kernel //my.files.iastate.edu/Users/droppers/Documents/Git/Astrodynamics-Software-Crash-Course/GMAT-R2018a/bin/../data/planetary_ephem/spk/DE405AllPlanets.bsp has been loaded.
+Kernel \\my.files.iastate.edu\Users\droppers\Documents\Git\Astrodynamics-Software-Crash-Course\GMAT-R2018a\bin\..\data\planetary_coeff\SPICEPlanetaryConstantsKernel.tpc has been loaded.
+Kernel \\my.files.iastate.edu\Users\droppers\Documents\Git\Astrodynamics-Software-Crash-Course\GMAT-R2018a\bin\..\data\time\SPICELeapSecondKernel.tls has been loaded.
+Kernel \\my.files.iastate.edu\Users\droppers\Documents\Git\Astrodynamics-Software-Crash-Course\GMAT-R2018a\bin\..\data\planetary_coeff\SPICEEarthPredictedKernel.bpc has been loaded.
+Kernel \\my.files.iastate.edu\Users\droppers\Documents\Git\Astrodynamics-Software-Crash-Course\GMAT-R2018a\bin\..\data\planetary_coeff\SPICEEarthCurrentKernel.bpc has been loaded.
+Kernel \\my.files.iastate.edu\Users\droppers\Documents\Git\Astrodynamics-Software-Crash-Course\GMAT-R2018a\bin\..\data\planetary_coeff\earth_latest_high_prec.bpc has been loaded.
+Kernel \\my.files.iastate.edu\Users\droppers\Documents\Git\Astrodynamics-Software-Crash-Course\GMAT-R2018a\bin\..\data\planetary_coeff\SPICELunaCurrentKernel.bpc has been loaded.
+Kernel \\my.files.iastate.edu\Users\droppers\Documents\Git\Astrodynamics-Software-Crash-Course\GMAT-R2018a\bin\..\data\planetary_coeff\SPICELunaFrameKernel.tf has been loaded.
+Mission run completed.
+===> Total Run Time: 11.796000 seconds
+
+========================================
+Running mission...
+Successfully set Planetary Source to use: DE405
+Successfully set Planetary Source to use: DE405
+Kernel //my.files.iastate.edu/Users/droppers/Documents/Git/Astrodynamics-Software-Crash-Course/GMAT-R2018a/bin/../data/planetary_ephem/spk/DE405AllPlanets.bsp has been loaded.
+Kernel \\my.files.iastate.edu\Users\droppers\Documents\Git\Astrodynamics-Software-Crash-Course\GMAT-R2018a\bin\..\data\planetary_coeff\SPICEPlanetaryConstantsKernel.tpc has been loaded.
+Kernel \\my.files.iastate.edu\Users\droppers\Documents\Git\Astrodynamics-Software-Crash-Course\GMAT-R2018a\bin\..\data\time\SPICELeapSecondKernel.tls has been loaded.
+Kernel \\my.files.iastate.edu\Users\droppers\Documents\Git\Astrodynamics-Software-Crash-Course\GMAT-R2018a\bin\..\data\planetary_coeff\SPICEEarthPredictedKernel.bpc has been loaded.
+Kernel \\my.files.iastate.edu\Users\droppers\Documents\Git\Astrodynamics-Software-Crash-Course\GMAT-R2018a\bin\..\data\planetary_coeff\SPICEEarthCurrentKernel.bpc has been loaded.
+Kernel \\my.files.iastate.edu\Users\droppers\Documents\Git\Astrodynamics-Software-Crash-Course\GMAT-R2018a\bin\..\data\planetary_coeff\earth_latest_high_prec.bpc has been loaded.
+Kernel \\my.files.iastate.edu\Users\droppers\Documents\Git\Astrodynamics-Software-Crash-Course\GMAT-R2018a\bin\..\data\planetary_coeff\SPICELunaCurrentKernel.bpc has been loaded.
+Kernel \\my.files.iastate.edu\Users\droppers\Documents\Git\Astrodynamics-Software-Crash-Course\GMAT-R2018a\bin\..\data\planetary_coeff\SPICELunaFrameKernel.tf has been loaded.
+*** WARNING *** 24 Jan 2000 12:06:16.828: 'DefaultOrbitView' exceed the maximum data points, now showing 20000 most recent data points.
+*** WARNING *** 24 Jan 2000 12:06:16.828: 'DefaultGroundTrackPlot' exceed the maximum data points, now showing 20000 most recent data points.
+Mission run completed.
+===> Total Run Time: 48.753000 seconds
+
+========================================
+Running mission...
+Successfully set Planetary Source to use: DE405
+Successfully set Planetary Source to use: DE405
+Kernel //my.files.iastate.edu/Users/droppers/Documents/Git/Astrodynamics-Software-Crash-Course/GMAT-R2018a/bin/../data/planetary_ephem/spk/DE405AllPlanets.bsp has been loaded.
+Kernel \\my.files.iastate.edu\Users\droppers\Documents\Git\Astrodynamics-Software-Crash-Course\GMAT-R2018a\bin\..\data\planetary_coeff\SPICEPlanetaryConstantsKernel.tpc has been loaded.
+Kernel \\my.files.iastate.edu\Users\droppers\Documents\Git\Astrodynamics-Software-Crash-Course\GMAT-R2018a\bin\..\data\time\SPICELeapSecondKernel.tls has been loaded.
+Kernel \\my.files.iastate.edu\Users\droppers\Documents\Git\Astrodynamics-Software-Crash-Course\GMAT-R2018a\bin\..\data\planetary_coeff\SPICEEarthPredictedKernel.bpc has been loaded.
+Kernel \\my.files.iastate.edu\Users\droppers\Documents\Git\Astrodynamics-Software-Crash-Course\GMAT-R2018a\bin\..\data\planetary_coeff\SPICEEarthCurrentKernel.bpc has been loaded.
+Kernel \\my.files.iastate.edu\Users\droppers\Documents\Git\Astrodynamics-Software-Crash-Course\GMAT-R2018a\bin\..\data\planetary_coeff\earth_latest_high_prec.bpc has been loaded.
+Kernel \\my.files.iastate.edu\Users\droppers\Documents\Git\Astrodynamics-Software-Crash-Course\GMAT-R2018a\bin\..\data\planetary_coeff\SPICELunaCurrentKernel.bpc has been loaded.
+Kernel \\my.files.iastate.edu\Users\droppers\Documents\Git\Astrodynamics-Software-Crash-Course\GMAT-R2018a\bin\..\data\planetary_coeff\SPICELunaFrameKernel.tf has been loaded.
+*** WARNING *** 23 Jan 2000 05:23:46.862: 'DefaultOrbitView' exceed the maximum data points, now showing 20000 most recent data points.
+*** WARNING *** 23 Jan 2000 05:23:46.862: 'DefaultGroundTrackPlot' exceed the maximum data points, now showing 20000 most recent data points.
+Mission run completed.
+===> Total Run Time: 57.159000 seconds
+
+========================================
+Moderator is deleting core engine...
+2018-08-21 12:19:47 GMAT GUI exiting.
